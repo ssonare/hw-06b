@@ -1,11 +1,5 @@
 # hw-06b: Triangle Classification Testing
 
-**Course:** SSW 567 - Software Testing, Quality Assurance and Maintenance
-**Institution:** Stevens Institute of Technology
-**Assignment:** Triangle Classification Testing and Debugging
-
----
-
 ## Assignment Overview
 
 This repository contains a comprehensive triangle classification testing project that demonstrates:
@@ -168,16 +162,5 @@ commit 1: Part 0 - Initial commit with original triangle code
 - ✅ Part 2: Code improvement and Test Report 2
 - ✅ Complete documentation and assignment summary
 
-**Status:** 🎉 COMPLETE - All requirements met with 100% test pass rate
 
----
 
-## Contact
-
-For questions about this assignment, please contact the course instructor.
-
----
-
-## License
-
-This is an academic project for SSW 567 at Stevens Institute of Technology.
